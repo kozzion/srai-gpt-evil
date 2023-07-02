@@ -1,5 +1,5 @@
 # srai-chatgpt-voice
-Tired of typing promts to have Chat gpt do your work for you? use chatgpt-voice!!!! Powered by south river AI!!! And exclamation marks!!!!
+Talk to your favorite evil overlord.
 
 ## Installation on windows (using gitbash):
 0. install python (3.9 works on my pc)
